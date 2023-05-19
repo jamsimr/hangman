@@ -1,3 +1,4 @@
+#%%
 import random
 
 word_list = ["pear", "banana", "blueberry", "date", "mango"]
@@ -15,3 +16,4 @@ if len(guess) == 1 and guess.isalpha():
     print("Good guess!")
 else:
     "Oops! That is not a valid input."
+#%%
